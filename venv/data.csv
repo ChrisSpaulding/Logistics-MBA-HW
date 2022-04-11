@@ -1,0 +1,105 @@
+RR,Origin,Destination,Price,Days
+BNSF,"Atlanta, GA","Los Angeles, CA","$1,192.00 ",6
+NS,"Atlanta,GA","Chicago, IL",$363.00 ,4.5
+NS,"Ayer, MA","Chicago, IL",$296.00 ,2.5
+NS,"Buffalo, NY","Chicago, IL",$248.00 ,2.1
+NS,"Charlotte, NC","Chicago, IL",$745.00 ,4.2
+NS,"Charlotte, NC","Dallas, TX",$838.00 ,2
+NS,"Chicago, IL","Atlanta,GA",$581.00 ,4.5
+NS,"Chicago, IL","Ayer, MA","$1,100.00 ",2
+NS,"Chicago, IL","Buffalo, NY",$555.00 ,2.5
+NS,"Chicago, IL","Charlotte, NC",$868.00 ,4
+CSX,"Chicago, IL","Cleveland, OH",$425.00 ,2.75
+NS,"Chicago, IL","Columbus, OH",$457.00 ,2.75
+NS,"Chicago, IL","Croxton, NJ",$987.00 ,1.6
+BNSF,"Chicago, IL","Denver, CO",$752.00 ,4
+BNSF,"Chicago, IL","Dallas, TX",$879.00 ,2
+NS,"Chicago, IL","Erail, NJ",$987.00 ,1.6
+UP,"Chicago, IL","Houston, TX",$935.00 ,2
+BNSF,"Chicago, IL","Kansas City, KS",$383.00 ,3
+CSX,"Chicago, IL","Kearney, NJ",$743.00 ,1.6
+CSX,"Chicago, IL","Little Ferry, NJ",$784.00 ,1.6
+BNSF,"Chicago, IL","Los Angeles, CA","$1,171.00 ",5
+NS,"Chicago, IL","Norfolk, VA","$1,178.00 ",2.5
+NS,"Chicago, IL","Pittsburgh, PA",$570.00 ,1.5
+UP,"Chicago, IL","San Antonio, TX","$1,050.00 ",4
+NS,"Chicago, IL","Savannah, GA",$752.00 ,4
+BNSF,"Chicago, IL","Seattle, WA","$1,414.00 ",5
+NS,"Chicago, IL","Toledo, OH",$457.00 ,1
+CN,"Chicago, IL","Toronto, ON",$719.00 ,2
+CSX,"Chicago, IL","Worchester, MA",$952.00 ,2
+CSX,"Cleveland, OH","Chicago, IL",$320.00 ,2.75
+NS,"Columbus, OH","Chicago, IL",$389.00 ,2.75
+NS,"Columbus, OH","Norfolk, VA",$726.00 ,2.6
+NS,"Croxton, NJ","Chicago, IL",$305.00 ,1.5
+NS,"Croxton, NJ","Norfolk, VA",$820.00 ,4
+KCS,"Dallas, TX","Charlotte, NC",$838.00 ,2
+BNSF,"Dallas, TX","Chicago, IL",$471.00 ,2
+BNSF,"Dallas, TX","Los Angeles, CA",$775.00 ,4
+KCS,"Dallas, TX","Savannah, GA",$733.00 ,3
+NS,"Erail, NJ","Chicago, IL",$305.00 ,2.3
+UP,"Houston, TX","Chicago, IL",$715.00 ,4
+BNSF,"Houston, TX","Los Angeles, CA",$670.00 ,3
+BNSF,"Kansas City, KS","Chicago, IL",$474.00 ,3
+BNSF,"Kansas City, KS","Los Angeles, CA",$823.00 ,4
+CSX,"Kearney, NJ","Chicago, IL",$353.00 ,1.6
+CSX,"Little Ferry, NJ","Chicago, IL",$406.00 ,1.6
+BNSF,"Los Angeles, CA","Atlanta, GA","$1,673.00 ",6
+BNSF,"Los Angeles, CA","Chicago, IL","$1,315.00 ",5
+BNSF,"Los Angeles, CA","Dallas, TX","$1,222.00 ",3
+BNSF,"Los Angeles, CA","Houston, TX","$1,382.00 ",3
+BNSF,"Los Angeles, CA","Kansas City, KS","$1,134.00 ",4
+UP,"Los Angeles, CA","Portland, OR","$1,045.00 ",2
+UP,"Los Angeles, CA","San Antonio, TX","$1,210.00 ",3
+NS,"Norfolk, VA","Chicago, IL",$403.00 ,2.5
+NS,"Norfolk, VA","Columbus, OH",$807.00 ,2.6
+NS,"Norfolk, VA","Croxton, NJ",$740.00 ,4
+NS,"Pittsburgh, PA","Chicago, IL",$265.00 ,3
+UP,"Portland, OR","Los Angeles, CA",$688.00 ,3
+UP,"San Antonio, TX","Chicago, IL",$880.00 ,4
+UP,"San Antonio, TX","Los Angeles, CA",$880.00 ,4
+NS,"Savannah, GA","Chicago, IL",$556.00 ,4
+NS,"Savannah, GA","Dallas, TX",$733.00 ,3
+BNSF,"Seattle, WA","Chicago, IL","$1,215.00 ",6
+NS,"Toledo, OH","Chicago, IL",$289.00 ,1.5
+CN,"Toronto, ON","Chicago, IL",$540.00 ,2
+CSX,"Worchester, MA","Chicago, IL",$459.00 ,2
+BNSF,"Denver, CO","Chicago, IL",$727.00 ,4
+BNSF,"Dallas, TX","Seattle, WA","$1,215.00 ",6
+BNSF,St. Louis,"Los Angeles, CA","$1,414.00 ",5
+BNSF,"Los Angeles, CA",St. Louis,"$1,414.00 ",5
+OTR,"Helmetta, NJ","Erail, NJ",$136.08 ,0.25
+OTR,"Helmetta, NJ","Pittsburgh, PA","$1,663.20 ",1
+OTR,"Helmetta, NJ","Albany,Ny",$841.05 ,0.5
+OTR,"Erail, NJ","Helmetta, NJ",$136.08 ,0.25
+OTR,"Pittsburgh, PA","Helmetta, NJ","$1,663.20 ",1
+OTR,"Albany,Ny","Helmetta, NJ",$841.05 ,0.5
+NS,"Albany, NY","Chicago, IL",$380.00 ,2.5
+NS,"Chicago, IL","Albany,Ny",$380.00 ,2.5
+BNSF,"Denver, CO","Chicago, IL",$727.00 ,4
+OTR,"Fort Collins, CO","Denver, Co",$283.03 ,0.5
+OTR,"Fort Collins, CO","Kansas City, KS","$3,099.00 ",1
+OTR,"Fort Collins, CO","Chicago, IL","$4,639.95 ",2
+OTR,"Denver, CO","Fort Collins, CO",$283.03 ,0.5
+OTR,"Kansas City, KS","Fort Collins, CO","$3,099.00 ",1
+OTR,"Chicago, IL","Fort Collins, CO","$4,639.95 ",2
+OTR,"San Antonio, TX","Dallas, TX","$1,289.93 ",1
+OTR,"Dallas, TX","San Antonio, TX","$1,289.93 ",1
+OTR,"Dayton, OH","Cleveland, OH",$978.08 ,0.5
+OTR,"Dayton, OH","Columbus, OH",$357.68 ,0.25
+OTR,"Dayton, OH","Chicago, IL","$1,403.33 ",0.5
+OTR,"Cleveland, OH","Dayton, OH",$978.08 ,0.5
+OTR,"Columbus, OH","Dayton, OH",$357.68 ,0.25
+OTR,"Chicago, IL","Dayton, OH","$1,403.33 ",0.5
+OTR,"Little Ferry, NJ","Helmetta, NJ",$213.10 ,0.25
+OTR,"Helmetta, NJ","Little Ferry, NJ",$213.10 ,0.25
+OTR,"Chicago, IL","Helmetta, NJ","$3,737.78 ",1.1
+OTR,"Helmetta, NJ","Chicago, IL","$3,737.48 ",1.1
+Boat,"Los Angeles, CA","Norfolk, VA",$110.00 ,3
+Boat,"Norfolk, VA","Los Angeles, CA",$110.00 ,3
+OTR,"Croxton, NJ","Helmetta, NJ",$171.99 ,0.1
+OTR,"Helmetta, NJ","Croxton, NJ",$171.99 ,0.1
+OTR,"Pittsburgh, PA","Helmetta, NJ","$1,663.20 ",0.7
+OTR,"Helmetta, NJ","Pittsburgh, PA","$1,663.20 ",0.7
+OTR,"Norfolk, VA","Helmetta, NJ","$1,540.35 ",0.7
+OTR,"Helmetta, NJ","Norfolk, VA","$1,540.35 ",0.7
